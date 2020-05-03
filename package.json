@@ -1,0 +1,26 @@
+{
+  "name": "hive-dex",
+  "version": "1.0.0",
+  "description": "Hive-Dex allows people to run micro-exchanges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snaddyvitch-Dispenser/hive-dex.git"
+  },
+  "keywords": [
+    "hive",
+    "hbd",
+    "exchange",
+    "cryptocurrency",
+    "blockchain"
+  ],
+  "author": "Snaddyvitch-Dispenser <lol@peoplewhothinktheyaregettingmy.email> (http://dbuidl.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snaddyvitch-Dispenser/hive-dex/issues"
+  },
+  "homepage": "https://github.com/Snaddyvitch-Dispenser/hive-dex#readme"
+}
