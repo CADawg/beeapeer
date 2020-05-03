@@ -1,0 +1,10 @@
+{
+    "owner": "cadawg",
+    "fees": {
+        "peer":1,
+        "user":2
+    },
+    "peers": [
+        "node.dex.beeapeer.com"
+    ]
+}

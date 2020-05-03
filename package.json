@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Snaddyvitch-Dispenser/hive-dex/issues"
   },
-  "homepage": "https://github.com/Snaddyvitch-Dispenser/hive-dex#readme"
+  "homepage": "https://github.com/Snaddyvitch-Dispenser/hive-dex#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
