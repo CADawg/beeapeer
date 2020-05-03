@@ -117,3 +117,6 @@ dist
 
 # Live Config files - Prevent uploading keys
 config.json
+
+# WebStorm / Jetbrains Products
+.idea/
